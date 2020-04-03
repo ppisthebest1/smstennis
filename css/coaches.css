@@ -20,7 +20,7 @@ body {
   background-color: black;
   background-position: center;
   background-size: cover;
-  background-image: url("images/coacheshero.jpg");
+  background-image: url("../images/coacheshero.jpg");
   text-align: center;
   color: white;
   font-size: 200%;
