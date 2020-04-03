@@ -20,7 +20,7 @@ body {
   background-color: black;
   background-position: center;
   background-size: cover;
-  background-image: url("/images/coacheshero.jpg");
+  background-image: url("../images/coacheshero.jpg");
   text-align: center;
   color: white;
   font-size: 200%;
@@ -69,10 +69,10 @@ body {
   margin-top: 10px;
 }
 #mccormic .image {
-  background-image: url("/images/cormic.png");
+  background-image: url("../images/cormic.png");
 }
 #hodge .image {
-  background-image: url("/images/hodge.jpeg");
+  background-image: url("../images/hodge.jpeg");
 }
 .coach-desc {
   text-align: center;
